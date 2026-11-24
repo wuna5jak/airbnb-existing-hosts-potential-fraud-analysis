@@ -94,11 +94,9 @@ docs/        write-up and flag dictionary (name, rule, points, family)
 
 A short note every Friday: what ran, what surprised me, what is next.
 
-**Week 1 (23 - 29 Nov):** *(to fill in)*
+**Week 1 (23 - 29 Nov):** 
+- [x] repository created, snapshots downloaded, tools ready
 
-## About
-
-By Diana, Barcelona. *(Add LinkedIn link.)*
 
 ## Credits and sources
 
