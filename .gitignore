@@ -1,0 +1,22 @@
+# Raw Inside Airbnb data (large, and not stored in the repo)
+data/raw/
+*.csv.gz
+*.gz
+
+# Passwords and local settings
+.env
+*.env
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Power BI: the file embeds the data, so check it before committing
+*.pbix
