@@ -96,7 +96,7 @@ A short note every Friday: what ran, what surprised me, what is next.
 
 **Week 1 (23 - 29 Nov):** 
 - [x] repository created, snapshots downloaded, tools ready
-
+- [x] files checked, started cleaning raw data
 
 ## Credits and sources
 
